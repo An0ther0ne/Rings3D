@@ -2,7 +2,7 @@
 This is Simple C++ DirectX 8 demo written by myself in far far away 2005 year.
 Just have only one source file, nothing else.
 
-![](scrshot.png)
+![](scrsht.png)
 
 # Keyboard controls:
 
