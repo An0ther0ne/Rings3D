@@ -13,10 +13,19 @@ Just have only one source file, nothing else.
 * F11 : Toggle alpha blending;
 * Enter : Change fullscreen/windowed.
 
-# To build:
-1. Create an empty project in Visual Studio C++ 
-2. Append main.cpp to that project as main cpp file
-3. Compile and build one
+# Build
+
+Requirements
+------------
+
+* DirectX 8 SDK
+
+Process
+-------
+
+1. Create an empty project in Visual Studio C++, 
+2. Append main.cpp to that project as main file,
+3. Compile and build one.
 
 or
 
@@ -25,4 +34,4 @@ or
 4. Enjoy.
 
 # Author
-An0ther0ne
+An0ther0ne, 2005
